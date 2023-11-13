@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/expenses-chart-component-flexbox-grid-js-4VwhhvlkFO)
+- Live Site URL: [Link](https://b-viv.github.io/expenses_chart_component/)
 
 ## My process
 
